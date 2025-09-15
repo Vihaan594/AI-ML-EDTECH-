@@ -6,7 +6,7 @@ Design and workflow:
 •	Extracts information from textbooks and research papers, transforms the data into structured semantic relationships using RDF, and stores the knowledge in a graph database for efficient querying and learning. The system leverages Apache Jena for RDF model creation and Neo4j graph storage. I have opted Apache Jena as custom ETL pipelines are very lengthy and code optimization is better in Apache Jena.
   
        Data Sources
-
+DIAGRAM IN WORD FILE
 
 
 
